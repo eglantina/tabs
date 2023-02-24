@@ -1,0 +1,6 @@
+code: tabs
+description: Template for ent projects
+components:
+  widgets:
+    - ui/widgets/widgets-dir/tab-widget/tabs-descriptor.yaml
+
