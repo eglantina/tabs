@@ -1,5 +1,3 @@
-
-
 <#assign wp=JspTaglibs["/aps-core"]>
 <script src="<@wp.resourceURL />tabs/static/js/1.749ffb98.chunk.js"></script>
 <script src="<@wp.resourceURL />tabs/static/js/main.c8ca854e.chunk.js"></script>
