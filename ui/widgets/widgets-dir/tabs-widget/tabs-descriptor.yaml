@@ -1,0 +1,6 @@
+code: tabs-section
+titles:
+ en: Sample Tabs Section Template
+ it: Sample Tabs Section Template
+group: free
+customUiPath: tabs.ftl
